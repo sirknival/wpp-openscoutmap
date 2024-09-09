@@ -1,0 +1,58 @@
+Gruppennummer	Name	Adresse	PLZ	Web	E-Mail	Stufen	Lat	Lon
+Gruppe 1	St. Georg	Antonsplatz 17	1100	https://www.pfadfindergruppe1.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.208521	16.33098511
+Gruppe 10/48	St. Oswald	Klehslplatz 7	1120	https://www.1048er.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.16257419	16.3214288
+Gruppe 11	St. Severin	Schulgasse 43/1	1180	http://pfadfinder-wien11.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.225079	16.3413085
+Gruppe 111	Notre Dame du Rivage			https://www.ccfv.at/scoutisme/		Biber, WiWö, GuSp,CaEx, RaRo 		
+Gruppe 12	Erzherzog Johann	Holeyplatz 1	1100	http://www.12er.net/		Biber, WiWö, GuSp,CaEx, RaRo 	48.1558663	16.3769254
+Gruppe 13	Erdberg	Erdbergstraße 72	1030	https://www.13er.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.19946049	16.3989498
+Gruppe 14	Mount Kenya	Oleandergasse 1	1220	https://www.mountkenya.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.2515093	16.4974989
+Gruppe 15	St. Anna	Annagasse 3b	1010	https://www.15er.net/		Biber, WiWö, GuSp,CaEx, RaRo 	48.20437	16.37197
+Gruppe 16B	Schotten	Freyung 6/9/13	1010	https://gruppe16b.at/		Biber, Wö, Sp,Ex, Ro 	48.2141848	16.3681384
+Gruppe 16M	Unsere liebe Frau zu den Schotten	Freyung 6/Stiege 10	1010	http://www.16m.at/		Biber, Wi, Gu,Ca, Ra 	48.2134418	16.365452
+Gruppe 17/47		Barnabitengasse 14	1060	https://1747.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.1990497	16.3533402
+Gruppe 18	Mafeking	Burggasse 35/26	1070	https://gruppe18.org/		Biber, WiWö, GuSp,CaEx, RaRo 	48.2041011	16.3524574
+Gruppe 19	Breitensee	Breitenseerstraße 35	1140	https://www.gruppe19.at/		WiWö, GuSp,CaEx, RaRo 	48.20184	16.3071
+Gruppe 2	Hemma von Gurk	Hoyosgasse/Kreuzherrengasse 1040 Wien	1040	https://wien2.scout.at/		Biber, Wi, Gu,Ca, Ra 	48.1981753	16.3726471
+Gruppe 20	Breitenfeld	Blindengasse 42	1080	http://www.pfadis-gruppe20.at/index.php		Biber, WiWö, GuSp,CaEx, RaRo 	48.2134747	16.3414223
+Gruppe 21	Liechtenstein	Müllnergasse 6a	1090	http://www.gruppe21.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.2202458	16.3635176
+Gruppe 22	Löwe von Aspern	Bergengasse 6a/4a/38	1222	https://www.pfadfinder-wien22.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.214963399	16.473867
+Gruppe 23	St. Calasanz	Piaristengasse 45	1080	http://www.gruppe23.net/		Biber, WiWö, GuSp,CaEx, RaRo 	48.2108655	16.3501436
+Gruppe 26	St. Gertrud	Gentzgasse 12	1180	https://pfadfinder26.org/hp/		Biber, WiWö, GuSp,CaEx, RaRo 	48.2265906	16.3465574
+Gruppe 27	Donaustadt	Wohlmutstraße 19-21	1020	https://www.gruppe27.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.2199475864595	16.403345496600405
+Gruppe 28	St. Georg Kagran	Wagramerstraße 150	1220	https://www.28er.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.2497474	16.4436288
+Gruppe 29	Dornbach	Alszeile 109	1170	https://pfadfinder29.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.22987699	16.299479
+Gruppe 3	St. Hubertus	Simmeringer Hauptstraße 68-74/2 1110 Wien	1110	https://www.pfadfinder3.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.176798	16.413394
+Gruppe 31	Stadlau	Gemeindeaugasse 5	1220	https://www.pfadi31stadlau.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.2231082	16.452704
+Gruppe 32	Pax Hill	Anton-Baumgartnerstraße 44/C8/0100	1230	https://www.32er.org/		Biber, WiWö, GuSp,CaEx, RaRo 	48.15274499	16.310963
+Gruppe 34	St. Thekla	Phorusgasse 3	1040	www.34er.at		Biber, WiWö, GuSp,CaEx, RaRo 	48.1890849	16.364399
+Gruppe 36	St. Stanislaus Kostka	Kagraner Anger 26	1220	https://scout36.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.2388664	16.450812
+Gruppe 37	Christoph Columbus	Brückengasse 7	1060	http://test.acomp.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.1904581	16.347817
+Gruppe 38	Penzing	Cumberlandstraße 46A	1140	https://38er.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.1924264	16.3004998
+Gruppe 39	Ober St. Veit	Vitusgasse 2	1130	https://www.gruppe39.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.1878575	16.2661268
+Gruppe 41	St. Karl	Kreuzherrengasse 1	1040	http://www.scout41.eu/hp/		Biber, WiWö, GuSp,CaEx, RaRo 	48.1978623	16.3722561
+Gruppe 42	St. Sebastian	Rochusgasse 4	1030	https://www.42er.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.201644599	16.3906641
+Gruppe 44		Quadenstraße 53	1220	https://die44er.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.2382157	16.4813466
+Gruppe 45	Meidling	Tivoligasse 20	1120	https://www.gruppe45.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.1802439	16.3261197
+Gruppe 46	Pater Scheidl - Kaisermühlen	Schüttauplatz 3	1220	http://gruppe46.scoutware.at/site/		Biber, WiWö, GuSp,CaEx, RaRo 	48.2267822	16.4236714
+Gruppe 51	Robert Lebner	Große Sperlgasse 38	1020	https://wien51.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.2193556	16.3786272
+Gruppe 52	St. Kapistran	Forsthausgasse 22	1200	http://www.gruppe52.at/frog/		Biber, WiWö, GuSp,CaEx, RaRo 	48.2450047	16.3739439
+Gruppe 55	Hugo von Hofmansthal	Johann-Josef-Krätzer-Gasse 9	1230	https://www.gruppe55.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.148339	16.2967426
+Gruppe 57	Mauer St. Georgenberg	Ottillingerplatz 1	1230	https://www.57er.info/		Biber, WiWö, GuSp,CaEx, RaRo 	48.1476361	16.2534098
+Gruppe 58	Krim	Sollingergasse 24	1190	https://wien58.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.24307049	16.3356001
+Gruppe 6&7	Paxtu	Klimschgasse 14	1030	https://paxtu.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.1945207	16.3915442
+Gruppe 60	Hubertus-Christophorus	Kardinal Piffl Gasse 1	1130	https://www.wien60.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.1632162	16.2613399
+Gruppe 63	Ottakring	Rückertgasse 5	1160	http://www.63er.at		Biber, WiWö, GuSp,CaEx, RaRo 	48.20613	16.31545
+Gruppe 64	Don Bosco	Liebleitnergasse 3	1210	http://www.pfadi64.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.3025433	16.4108739
+Gruppe 66	Am Wienerfeld	Wienerfeldgasse 11	1100	https://www.66er.net/		Biber, WiWö, GuSp,CaEx, RaRo 	48.1575829	16.3604255
+Gruppe 71	Simmering	Simmeringer Hauptstraße 142-150/Stiege 10 1110 Wien	1110	https://pfadfindergruppe71.at		Biber, WiWö, GuSp,CaEx, RaRo 	48.16719249	16.422146
+Gruppe 73	Kaiser Ebersdorf	Dreherstraße 2a	1110	https://www.pfadi73.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.1573711	16.473651
+Gruppe 78	Nibelungenviertel	Markgraf-Rüdiger-Straße 26	1150	https://www.scout78.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.20440869	16.3305079
+Gruppe 8	Pater Haspinger/Guy de Larigaudie	Galvanigasse 3-5	1210	https://www.gruppe8.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.2634163	16.3920439
+Gruppe 80	Enzian	Hohenbergstraße 42	1120	http://80enzian.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.17616049	16.32011
+Gruppe 81	Glanzing	Krottenbachstraße 120	1190	https://gruppe81.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.2438361	16.32099269
+Gruppe 83	Baden Powell	Geweygasse 6	1190	http://83er.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.2513537	16.3575569
+Gruppe 87	– B7	Theumermarkt 2	1210	http://www.pfadi87.at/pfadi87home		Biber, WiWö, GuSp,CaEx, RaRo 	48.2916427	16.4158365
+Gruppe 88	Vienna International Scout Group	Meissnergasse 1	1220	https://www.visg88.at/		Biber, WiWö, GuSp,CaEx, RaRo 	48.2479828	16.4311575
+Gruppe 9	St. Othmar	Untere Weißgerberstraße 10	1030	https://www.pfadfindergruppe9.at		Biber, WiWö, GuSp,CaEx, RaRo 	48.21082213692338	16.392741219195496
+Gruppe 91	S.M.S. Novara	Floridusgasse 15	1210	http://www.seepfadfinder.at/Kontakt/		Biber, WiWö, GuSp,CaEx, RaRo 	48.2513965	16.406841
+Pfadfinderfanfare 		Hippgasse 29	1160	https://www.pfw.at/			48.1746616551827	16.34843922543358
